@@ -117,3 +117,13 @@ E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Delete.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Details.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs

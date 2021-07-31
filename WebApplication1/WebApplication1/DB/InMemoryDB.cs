@@ -29,5 +29,13 @@ namespace WebApplication1.DB
             new Category{ CategoryId = 3, CategoryName = "Date", CategoryDescription = "Fruite"},
             new Category{ CategoryId = 4, CategoryName = "Dried Date", CategoryDescription = "Dried Fruit"}
         };
+
+        public static List<Customer> Customers = new List<Customer>
+        {
+            new Customer{CustomerId = 1, Organization = "Uniper", Address = "Holzstraße 6", ContactPerson = "Manuel R.", Nationality = "Germany"},
+            new Customer{CustomerId = 2, Organization = "Music School", Address = "Charlie 6", ContactPerson = "Issabelle S.", Nationality = "French"},
+            new Customer{CustomerId = 3, Organization = "Flughafen", Address = "Neuss 40856", ContactPerson = "Branka R.", Nationality = "Macedonia"},
+            new Customer{CustomerId = 4, Organization = "Porsche", Address = "Berlin, Alexanderplatz 54", ContactPerson = "Toni B.", Nationality = "Germany"}
+        };
     }
 }
