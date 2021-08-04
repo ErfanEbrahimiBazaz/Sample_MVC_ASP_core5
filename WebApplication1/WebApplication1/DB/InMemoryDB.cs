@@ -37,5 +37,11 @@ namespace WebApplication1.DB
             new Customer{CustomerId = 3, Organization = "Flughafen", Address = "Neuss 40856", ContactPerson = "Branka R.", Nationality = "Macedonia"},
             new Customer{CustomerId = 4, Organization = "Porsche", Address = "Berlin, Alexanderplatz 54", ContactPerson = "Toni B.", Nationality = "Germany"}
         };
+        public static List<Supplier> Suppliers = new List<Supplier>
+        {
+            new Supplier{Id = 1, CompanyName="Rebyoon", CEOName="Mehdi Khorami", ContactPerson="Mehdi Khorami", Address="Tehran, Iran"},
+            new Supplier{Id = 2, CompanyName="Date", CEOName="CEO", ContactPerson="Mehdi Khorami", Address="Istanbul, Turkey"},
+            new Supplier{Id = 3, CompanyName="Exchange", CEOName="Ariana", ContactPerson="Arii", Address="Ankara, Turkey"},
+        };
     }
 }

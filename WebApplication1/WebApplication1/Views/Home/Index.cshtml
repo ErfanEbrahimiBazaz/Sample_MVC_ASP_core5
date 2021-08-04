@@ -1,8 +1,18 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var ImageList = new List<string>
+    {
+        "https://s.fotorama.io/1.jpg",
+        "https://s.fotorama.io/2.jpg",
+        "https://s.fotorama.io/3.jpg"
+    };
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
 </div>
+
+<partial name="_ImageCarasoulPartial" model="ImageList"/>
+@*model="ImageList">*@

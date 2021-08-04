@@ -49,5 +49,16 @@ namespace WebApplication1.Controllers
         }
 
         #endregion
+
+        public IActionResult ProductCaraosol()
+        {
+            List<string> images = new List<string>
+                {
+                "https://s.fotorama.io/1.jpg",
+                "https://s.fotorama.io/2.jpg",
+                "https://s.fotorama.io/3.jpg"
+            };
+            return View(images);
+        }
     }
 }

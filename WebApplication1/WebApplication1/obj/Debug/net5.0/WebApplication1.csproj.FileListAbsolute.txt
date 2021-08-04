@@ -127,3 +127,6 @@ E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Delete.cshtml.g.cs
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Details.cshtml.g.cs
 E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ImageCarasoulPartial.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Product\ProductCaraosol.cshtml.g.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Supplier\Index.cshtml.g.cs
