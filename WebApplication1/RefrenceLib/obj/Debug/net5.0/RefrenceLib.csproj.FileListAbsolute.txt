@@ -1,0 +1,15 @@
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\bin\Debug\net5.0\RefrenceLib.deps.json
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\bin\Debug\net5.0\RefrenceLib.dll
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\bin\Debug\net5.0\ref\RefrenceLib.dll
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\bin\Debug\net5.0\RefrenceLib.pdb
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.csproj.GenerateResource.cache
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.AssemblyInfoInputs.cache
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.AssemblyInfo.cs
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.csproj.CoreCompileInputs.cache
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.dll
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\ref\RefrenceLib.dll
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.pdb
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.csproj.AssemblyReference.cache
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.Titles.resources
+E:\Fad\ASP\HW\s4-1\WebApplication1\RefrenceLib\obj\Debug\net5.0\RefrenceLib.ErrorMessages.resources
